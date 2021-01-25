@@ -37,7 +37,7 @@
 				{ "Color" : "Blue,Red" },
 			    { "OneOfAKind" : true }
 			],
-			"image" : "images/oculos.jpg",
+			"image" : "/images/oculos.jpg",
 			"description" : "This is a really cool blue T-shirt"
 		}
 	]
