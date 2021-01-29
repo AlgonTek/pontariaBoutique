@@ -1,44 +1,125 @@
 {
-	"products" : [
+	"products" : 
+	[
 		{
-			"name" : "Awesome T-shirt da Pontaria",
-			"price" : "35.99",
+			"name" : "Bota da Pontaria",
+			"price" : "500.00 Mt",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" }
+				{ "Size" : "Pequeno,Medio,Grande" }
 			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
-			"description" : "This is a very awesome grey T-shirt"
-		},
-		{
-			"name" : "Cool T-shirt da Pontaria",
-			"price" : "15.99",
-			"options" : [
-				{ "Size" : "Small,Medium,Large" },
-				{ "Color" : "Blue,Red" },
-			    { "OneOfAKind" : true }
-			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/2/24/Blue_Tshirt.jpg",
-			"description" : "This is a really cool blue T-shirt"
-		},
-		{
-			"name" : "Fun T-shirt da Pontaria",
-			"price" : "15.99",
-			"options" : [
-				{ "Size" : "Small,Medium,Large" }
-			],
-			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
-			"description" : "This is another fun grey T-shirt"
-		},
+			"image" : "images/bota.jpg",
+			"description" : "Esteja na moda trajado com boa qualidade"
+		}
+		,
 		{
 			"name" : "Oculos da Pontaria",
-			"price" : "15.99",
+			"price" : "500.00 Mt",
 			"options" : [
-				{ "Size" : "Small,Medium,Large" },
-				{ "Color" : "Blue,Red" },
-			    { "OneOfAKind" : true }
+				{ "Size" : "Pequeno,Medio,Grande" }
 			],
-			"image" : "/images/oculos.jpg",
-			"description" : "This is a really cool blue T-shirt"
+			"image" : "images/oculos.jpg",
+			"description" : "Esteja na moda trajado com boa qualidade"
+		},
+		{
+			"name" : "Casaco da Pontaria",
+			"price" : "1500.00",
+			"options" : [
+				{ "Size" : "Pequeno,Medio,Grande" }
+			],
+			"image" : "images/casaco.jpg",
+			"description" : "Esteja na moda trajado com boa qualidade"
+		},
+		{
+			"name" : "Sapatilhas da Pontaria",
+			"price" : "2500.00 Mt",
+			"options" : [
+				{ "Size" : "Pequeno,Medio,Grande" },
+				{ "Color" : "Azul,Preto,Branco" }
+			],
+			"image" : "images/nikeyellow.jpg",
+			"description" : "Esteja na moda trajado com boa qualidade"
+		},
+		{
+			"name" : "Sapatos da Pontaria",
+			"price" : "2500.00 Mt",
+			"options" : [
+				{ "Size" : "Pequeno,Medio,Grande" },
+				{ "Color" : "Azul,Preto,Branco" }
+			],
+			"image" : "images/sapatobom.jpg",
+			"description" : "Esteja na moda trajado com boa qualidade"
+		}
+		,
+		{
+			"name" : "Vestido da Pontaria",
+			"price" : "500.00 Mt",
+			"options" : [
+				{ "Size" : "Pequeno,Medio,Grande" },
+				{ "Color" : "Azul,Preto,Branco" }
+			],
+			"image" : "images/vestido2.jpg",
+			"description" : "Esteja na moda trajado com boa qualidade"
+		},
+		{
+			"name" : "Cabelos da Pontaria",
+			"price" : "5500.00 Mt",
+			"options" : [
+				{ "Size" : "Pequeno,Medio,Grande" },
+				{ "Color" : "Azul,Preto,Branco" }
+			],
+			"image" : "images/cabelo1.jpg",
+			"description" : "Esteja na moda trajado com boa qualidade"
+		},
+		{
+			"name" : "Bota Feminina da Pontaria",
+			"price" : "500.00 Mt",
+			"options" : [
+				{ "Size" : "Pequeno,Medio,Grande" },
+				{ "Color" : "Azul,Preto,Branco" }
+			],
+			"image" : "images/1.jpg",
+			"description" : "Esteja na moda trajado com boa qualidade"
+		},
+		{
+			"name" : "Macacao Feminino da Pontaria",
+			"price" : "500.00 Mt",
+			"options" : [
+				{ "Size" : "Pequeno,Medio,Grande" },
+				{ "Color" : "Azul,Preto,Branco" }
+			],
+			"image" : "images/2.jpg",
+			"description" : "Esteja na moda trajado com boa qualidade"
+		}
+		,
+		{
+			"name" : "Calcas Masculinas da Pontaria",
+			"price" : "500.00 Mt",
+			"options" : [
+				{ "Size" : "Pequeno,Medio,Grande" },
+				{ "Color" : "Azul,Preto,Branco" }
+			],
+			"image" : "images/5.jpg",
+			"description" : "Esteja na moda trajado com boa qualidade"
+		},
+		{
+			"name" : "Macacao Masculino da Pontaria",
+			"price" : "500.00 Mt",
+			"options" : [
+				{ "Size" : "Pequeno,Medio,Grande" },
+				{ "Color" : "Azul,Preto,Branco" }
+			],
+			"image" : "images/6.jpg",
+			"description" : "Esteja na moda trajado com boa qualidade"
+		},
+		{
+			"name" : "Biquine da Pontaria",
+			"price" : "500.00 Mt",
+			"options" : [
+				{ "Size" : "Pequeno,Medio,Grande" },
+				{ "Color" : "Azul,Preto,Branco" }
+			],
+			"image" : "images/biquini1.jpg",
+			"description" : "Esteja na moda trajado com boa qualidade"
 		}
 	]
 }

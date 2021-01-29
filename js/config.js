@@ -30,7 +30,7 @@ $(function() {
 	    data: {},
 
 	    // set the cart langauge (may be used for checkout)
-	    language: "english-us",
+	    language: "portuguese-pt",
 
 	    // array of item fields that will not be sent to checkout
 	    excludeFromCheckout: [
@@ -73,7 +73,7 @@ $(function() {
 	simpleStore.init({
 
 		// brand can be text or image URL
-		brand : "SimpleStore",
+		brand : "Pontaria",
 
 		// numder of products per row (accepts 1, 2 or 3)
 		numColumns : 3,
